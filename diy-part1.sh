@@ -19,3 +19,4 @@
 
 git clone https://github.com/yingziwu/luci-app-fakehttp.git package/luci-app-fakehttp
 git clone https://github.com/yingziwu/openwrt-fakehttp.git package/openwrt-fakehttp
+git clone https://github.com/fengmoxi/nf_deaf_openwrt.git package/nf_deaf
